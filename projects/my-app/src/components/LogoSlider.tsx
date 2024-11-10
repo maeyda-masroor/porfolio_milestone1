@@ -1,7 +1,4 @@
-"use client";
-import { useState, useEffect } from "react";
 import Image from "next/image";
-import { StaticImageData } from "next/image";
 import image1 from "../public/reactjs.png";
 import image2 from "../public/node.png";
 import image3 from "../public/html.png";

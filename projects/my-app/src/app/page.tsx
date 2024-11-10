@@ -1,5 +1,4 @@
 import Hero_Section from "@/components/HeroSection1";
-import Image from "next/image";
 import FeatureSection from "@/components/FeatureSection";
 import SkillSection from "@/components/SkillSection";
 import Resume from "@/components/MyResume";

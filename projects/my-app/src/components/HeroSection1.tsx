@@ -1,11 +1,6 @@
 
 import Image from "next/image";
 import Logo from '../public/logo.jpeg';
-import NODE from '../public/node.png';
-import CSS from '../public/css.png';
-import JS from '../public/js.png';
-import REACTJS from '../public/reactjs.png';
-import HTML from '../public/html.png';
 import LogoSlider from "./LogoSlider";
 import styles from './WavingHand.module.css';
 export default function Hero_Section(){
