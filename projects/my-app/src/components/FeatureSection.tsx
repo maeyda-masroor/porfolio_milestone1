@@ -1,5 +1,5 @@
 import Image from "next/image"
-import web from '../public/web.png';
+import web from '../../public/web.png';
 export default function Hero_Section(){
     return (
     <div className="w-full px-20 pt-10 bg-pink">

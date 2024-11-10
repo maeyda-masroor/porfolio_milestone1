@@ -1,11 +1,11 @@
 import Image from "next/image";
-import image1 from "../public/reactjs.png";
-import image2 from "../public/node.png";
-import image3 from "../public/html.png";
-import image4 from "../public/css.png";
-import image5 from "../public/js.png";
-import image6 from "../public/git.png";
-import image7 from "../public/ts.png";
+import image1 from "../../public/css.png";
+import image2 from "../../public/node.png";
+import image3 from "../../public/html.png";
+import image4 from "../../public/reactjs.png";
+import image5 from "../../public/js.png";
+import image6 from "../../public/git.png";
+import image7 from "../../public/ts.png";
 
 export default function LogoSlider() {
     return (
